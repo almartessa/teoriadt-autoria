@@ -51,6 +51,14 @@ Yo, **Aldo Marcelo Tessadro**, declaro bajo mi responsabilidad que:
    - Tipo: Registro de Obra Inédita - No Musical
    - Observación: Consolidación definitiva con estructura legal completa
 
+4. **RL-2025-72114646-APN-DNDA#MJ** (03/07/2025)
+   - Tipo: Registro de Obra Inédita - No Musical
+   - Observación: Ampliación del sistema con nuevos nodos vibracionales
+
+5. **RL-2025-84032868-APN-DNDA#MJ** (01/08/2025)
+   - Tipo: Registro de Obra Inédita - No Musical
+   - Observación: Consolidación adicional del sistema RUCM
+
 Estos registros protegen **todo el sistema RUCM** como obra intelectual registrada bajo derecho de autor en Argentina.
 
 ---
