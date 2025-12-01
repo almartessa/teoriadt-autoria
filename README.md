@@ -68,7 +68,7 @@ Este repositorio público contiene la **declaración formal de autoría exclusiv
 
 ##  Sobre el Sistema RUCM
 
-El sistema RUCM es un modelo simbólico-conceptual que integra conceptos de física cuántica, relatividad, biofotones y reorganización vibracional.
+El sistema RUCM es un modelo simbólico-conceptual que integra conceptos de física.
 
 **No busca**: Validación científica institucional ni uso comercial  
 **Busca**: Transmisión generacional responsable y reconocimiento de autoría
