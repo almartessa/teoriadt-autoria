@@ -8,7 +8,7 @@
 
 ##  Propósito de este repositorio
 
-Este repositorio público contiene la **declaración formal de autoría exclusiva** de Aldo Marcelo Tessadro sobre el sistema RUCM (Modelo Relativista Unificado Cuántico Multiversal) y la Teoría DT.
+Este repositorio público contiene la **declaración formal de autoría exclusiva** de Aldo Marcelo Tessadro sobre el sistema RUCM  y la Teoría DT.
 
 **Objetivo**: Establecer un registro público e inmutable con timestamp verificable que:
 - Complementa los registros DNDA oficiales
